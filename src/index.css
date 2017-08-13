@@ -1,0 +1,17 @@
+body {
+  margin: 0;
+  padding: 0;
+  font-family: sans-serif;
+}
+div {
+    margin: 10px;
+}
+h1 {
+  color: red;
+}
+h2 {
+  color: yellow;
+}
+h3 {
+  color: blue;
+}
