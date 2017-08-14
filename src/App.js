@@ -5,7 +5,7 @@ function App() {
     <div>
       <h1>Hello world!</h1>
       <br />
-      <input type="text" name="userName" value="zh" />
+      <input type="text" name="userName" defaultValue="zh" />
     </div>
   );
 }
